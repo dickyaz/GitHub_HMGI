@@ -1,0 +1,3 @@
+Catatan Presentasi
+- apa itu Github?
+- Terminology fungsi git
